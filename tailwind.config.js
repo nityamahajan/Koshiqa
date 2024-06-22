@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      lineHeight: {
+        0: '0',
+      },
       fontFamily: {
         anton: ['Anton']
       },
